@@ -28,6 +28,18 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         
+        for i in 0...3 {
+            
+            let path = getDirectory().appendingPathComponent("\(i).m4a").path
+            
+            if FileManager.default.fileExists(atPath: path) {
+                let button = self.view.viewWithTag(i) as? UIButton
+                button?.setTitle("Play", for: .normal)
+            }
+            
+        }
+        
+        
         // add long press gesture recognizer to buttons
         let longPressRecognizerA = UILongPressGestureRecognizer(target: self, action: #selector(longPressed))
         buttonA.addGestureRecognizer(longPressRecognizerA)
