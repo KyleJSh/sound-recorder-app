@@ -25,7 +25,7 @@
                                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="2xl-bq-yS6">
                                                 <rect key="frame" x="0.0" y="0.0" width="207" height="409"/>
                                                 <color key="backgroundColor" systemColor="systemRedColor"/>
-                                                <fontDescription key="fontDescription" type="boldSystem" pointSize="28"/>
+                                                <fontDescription key="fontDescription" type="system" weight="semibold" pointSize="28"/>
                                                 <state key="normal" title="A">
                                                     <color key="titleColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                                 </state>
@@ -36,7 +36,7 @@
                                             <button opaque="NO" tag="1" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="fVC-mL-Jjr">
                                                 <rect key="frame" x="207" y="0.0" width="207" height="409"/>
                                                 <color key="backgroundColor" systemColor="systemBlueColor"/>
-                                                <fontDescription key="fontDescription" type="boldSystem" pointSize="28"/>
+                                                <fontDescription key="fontDescription" type="system" weight="semibold" pointSize="28"/>
                                                 <state key="normal" title="B">
                                                     <color key="titleColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                                 </state>
@@ -52,7 +52,7 @@
                                             <button opaque="NO" tag="2" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="l2X-lT-LmT">
                                                 <rect key="frame" x="0.0" y="0.0" width="207" height="409"/>
                                                 <color key="backgroundColor" systemColor="systemGreenColor"/>
-                                                <fontDescription key="fontDescription" type="boldSystem" pointSize="28"/>
+                                                <fontDescription key="fontDescription" type="system" weight="semibold" pointSize="28"/>
                                                 <state key="normal" title="C">
                                                     <color key="titleColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                                 </state>
@@ -63,7 +63,7 @@
                                             <button opaque="NO" tag="3" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Zed-l4-SaN">
                                                 <rect key="frame" x="207" y="0.0" width="207" height="409"/>
                                                 <color key="backgroundColor" systemColor="systemPurpleColor"/>
-                                                <fontDescription key="fontDescription" type="boldSystem" pointSize="28"/>
+                                                <fontDescription key="fontDescription" type="system" weight="semibold" pointSize="28"/>
                                                 <state key="normal" title="D">
                                                     <color key="titleColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                                 </state>
